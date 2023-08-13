@@ -1,7 +1,10 @@
 import { NuxtPage } from '../.nuxt/components';
+<script setup lang="ts">
+</script>
+
 <template lang="">
   <div>
-    detail layout
+    详情页
   </div>
-  <NuxtPage></NuxtPage>
+  <NuxtPage />
 </template>

@@ -2,6 +2,9 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+使用github模版
+npx nuxi init -t gh:org/name
+
 ## Setup
 
 Make sure to install the dependencies:
